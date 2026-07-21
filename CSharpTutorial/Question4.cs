@@ -1,4 +1,4 @@
-csharpusing System;
+using System;
 
 class Question4
 {
@@ -9,7 +9,8 @@ class Question4
 
         double area = Math.PI * radius * radius;
 
-        Console.WriteLine("Radius of the circle: " + radius);
-        Console.WriteLine("area of circle is : " + area);
+       
+        Console.WriteLine($"The Radius of the Circle is {Radius}");
+        Console.WriteLine($"The Area of the Circle is {Area}");
     }
 }
