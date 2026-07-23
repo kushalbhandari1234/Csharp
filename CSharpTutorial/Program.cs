@@ -33,8 +33,7 @@ public class Program
        // Question9 q9 = new Question9();
        // q9.AverageMarks();
 
-    //    Question10 q10 = new Question10();
-    //    q10.Temperature();
+
 
   
 
