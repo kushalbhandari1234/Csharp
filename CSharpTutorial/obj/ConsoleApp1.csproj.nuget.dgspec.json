@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\CSharpTutorial\\ConsoleApp1.csproj.csproj": {}
+    "D:\\New folder\\CSharpTutorial\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\CSharpTutorial\\ConsoleApp1.csproj.csproj": {
+    "D:\\New folder\\CSharpTutorial\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\CSharpTutorial\\ConsoleApp1.csproj.csproj",
-        "projectName": "ConsoleApp1.csproj",
-        "projectPath": "D:\\New folder\\CSharpTutorial\\ConsoleApp1.csproj.csproj",
+        "projectUniqueName": "D:\\New folder\\CSharpTutorial\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "D:\\New folder\\CSharpTutorial\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
         "outputPath": "D:\\New folder\\CSharpTutorial\\obj\\",
         "projectStyle": "PackageReference",
